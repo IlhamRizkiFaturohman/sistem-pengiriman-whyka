@@ -1,0 +1,26 @@
+/* NAVBAR MERAH CUSTOM */
+.navbar-red {
+    background: #e10600 !important; /* merah perusahaan */
+}
+
+/* HERO MERAH */
+.hero {
+    background: linear-gradient(135deg, #e10600, #b30000);
+    color: white;
+}
+
+/* BUTTON MERAH */
+.btn-custom {
+    background: #e10600;
+    color: white;
+    border: none;
+}
+
+.btn-custom:hover {
+    background: #b30000;
+}
+
+/* HAPUS WARNA BIRU BOOTSTRAP YANG NEMPEL */
+.bg-primary {
+    background: #e10600 !important;
+}
